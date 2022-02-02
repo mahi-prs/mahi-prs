@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mahita @mahi-prs
-- 👀 I’m interested in Web Design
+- 👀 I’m interested in Web and UX Design
 - 🌱 I’m currently learning CSS and JavaScript
 - 📫 How to reach me: mahi.prs@gmail.com
 
